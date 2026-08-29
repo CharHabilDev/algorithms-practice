@@ -1,28 +1,25 @@
 # Algorithms Practice
 
-Collection d'exercices d'algorithmique réalisés en :
+A collection of algorithm and problem-solving exercises implemented in C, JavaScript, and Python.
 
-- C
-- JavaScript
-- Python
+## Goals
 
-## Objectifs
+- Strengthen algorithmic thinking
+- Compare solutions across multiple programming languages
+- Practice data structures and algorithms
+- Build a solid programming foundation
 
-- Développer la logique algorithmique
-- Comparer les solutions entre langages
-- Préparer les structures de données et algorithmes avancés
+## Repository Structure
 
-## Progression
-
-- [ ] Input / Output
-- [ ] Calculations
-- [ ] Conditions
-- [ ] Loops
-- [ ] Functions
-- [ ] Arrays
-- [ ] Strings
-- [ ] Math Algorithms
-- [ ] Search & Sort
-- [ ] Recursion
-- [ ] Data Structures
-- [ ] Mini Projects
+- Input / Output
+- Calculations
+- Conditions
+- Loops
+- Functions
+- Arrays
+- Strings
+- Math Algorithms
+- Search & Sort
+- Recursion
+- Data Structures
+- Mini Projects
