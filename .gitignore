@@ -12,6 +12,9 @@ venv/
 *.out
 *.exe
 
+# Compiled C executables
+**/solution
+
 # OS
 .DS_Store
 Thumbs.db
