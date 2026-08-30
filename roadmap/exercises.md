@@ -9,6 +9,8 @@
 7. Permuter deux variables
 8. Convertir secondes → heures/minutes/secondes
 
+---
+
 # 02 - Calculations
 
 1. Aire d'un carré
@@ -22,6 +24,8 @@
 9. Conversion Celsius → Fahrenheit
 10. Conversion Fahrenheit → Celsius
 
+---
+
 # 03 - Conditions
 
 1. Pair ou impair
@@ -30,12 +34,13 @@
 4. Plus grand de deux nombres
 5. Plus petit de deux nombres
 6. Plus grand de trois nombres
-7. Maximum de trois nombres
-8. Année bissextile
-9. Jour de la semaine
-10. Classification d'âge
-11. Mention d'un étudiant selon sa note
-12. Calculatrice simple (+ - * /)
+7. Année bissextile
+8. Jour de la semaine
+9. Classification d'âge
+10. Mention d'un étudiant selon sa note
+11. Calculatrice simple (+ - * /)
+
+---
 
 # 04 - Loops
 
@@ -54,6 +59,8 @@
 13. Dessiner un carré d'étoiles
 14. Dessiner un triangle d'étoiles
 
+---
+
 # 05 - Functions
 
 1. Fonction addition
@@ -71,6 +78,8 @@
 13. Fonction pgcd
 14. Fonction ppcm
 
+---
+
 # 06 - Arrays
 
 1. Somme d'un tableau
@@ -85,6 +94,12 @@
 10. Supprimer les doublons
 11. Rotation d'un tableau
 12. Deuxième plus grand élément
+13. Trier par ordre décroissant
+14. Décaler les éléments d'un tableau
+15. Intersection de deux tableaux
+16. Union de deux tableaux
+
+---
 
 # 07 - Strings
 
@@ -101,6 +116,11 @@
 11. Vérifier un anagramme
 12. Supprimer les espaces
 13. Compter la fréquence des lettres
+14. Remplacer un caractère
+15. Vérifier la présence d'une sous-chaîne
+16. Trouver le caractère le plus fréquent
+
+---
 
 # 08 - Math Algorithms
 
@@ -112,11 +132,16 @@
 6. Fibonacci
 7. Nombre parfait
 8. Nombre Armstrong
-9. Nombre de Narcisse
-10. Triangle de Pascal
-11. Conversion décimal → binaire
-12. Conversion binaire → décimal
-13. Racine carrée par approximation
+9. Triangle de Pascal
+10. Conversion décimal → binaire
+11. Conversion binaire → décimal
+12. Conversion décimal → hexadécimal
+13. Conversion hexadécimal → décimal
+14. Racine carrée par approximation
+15. Crible d'Ératosthène
+16. Combinaisons C(n, p)
+
+---
 
 # 09 - Search & Sort
 
@@ -125,9 +150,13 @@
 3. Bubble Sort
 4. Selection Sort
 5. Insertion Sort
-6. Vérifier si un tableau est trié
-7. Fusion de tableaux triés
-8. Trouver le k-ième plus grand élément
+6. Merge Sort
+7. Quick Sort
+8. Vérifier si un tableau est trié
+9. Fusion de tableaux triés
+10. Trouver le k-ième plus grand élément
+
+---
 
 # 10 - Recursion
 
@@ -140,6 +169,8 @@
 7. Palindrome récursif
 8. Compte à rebours récursif
 
+---
+
 # 11 - Data Structures
 
 1. Pile (Stack)
@@ -148,9 +179,14 @@
 4. Liste doublement chaînée
 5. Table de hachage
 6. Arbre binaire
-7. Parcours préfixe
-8. Parcours infixe
-9. Parcours postfixe
+7. Arbre de recherche binaire (BST)
+8. Heap (Tas)
+9. Parcours préfixe
+10. Parcours infixe
+11. Parcours postfixe
+12. Graphe simple (bonus)
+
+---
 
 # 12 - Mini Projects
 
