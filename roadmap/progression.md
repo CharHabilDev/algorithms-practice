@@ -2,7 +2,7 @@
 
 | Catégorie             | Fait      |
 |------------           |---------  |
-| 01 - Input / Output   | 6 / 8     |
+| 01 - Input / Output   | 7 / 8     |
 | 02 - Calculations     | 0 / 10    |
 | 03 - Conditions       | 0 / 11    |
 | 04 - Loops            | 0 / 14    |
